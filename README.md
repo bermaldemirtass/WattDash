@@ -38,3 +38,31 @@ timestamp,value
 2024-01-01 01:00:00,138
 ...
 
+
+📸 Additional UI Screenshots
+
+ ✅ 1. Forecasting and Anomaly Detection Using Real Data  
+Visual output when real Open Power Data is used:
+
+![Real Data Forecast and Anomaly](screenshots/1.png)
+
+📂 2. Manual Data Upload  
+Results when uploading a CSV file manually:
+
+![Manual Upload Result](screenshots/2.png)
+
+🧩 3. Column Selection Interface  
+Dropdown interface for selecting the column to be used for analysis:
+
+![Select Column](screenshots/3.png)
+
+ ☀️ 4. CH_solar_generation_actual Selected  
+Screenshot showing the selection of `CH_solar_generation_actual`:
+
+![CH Solar Column Selected](screenshots/4.png)
+
+
+📊 5. Output for CH_solar_generation_actual  
+Anomaly detection and forecasting results for the selected solar data:
+
+![CH Solar Graph](screenshots/5.png)

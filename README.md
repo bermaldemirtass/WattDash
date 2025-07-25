@@ -37,7 +37,7 @@ timestamp,value
 2024-01-01 00:00:00,132
 2024-01-01 01:00:00,138
 ...
-
+```
 
 📸 Additional UI Screenshots
 
